@@ -82,7 +82,7 @@ The insights derived from this project can inform the following strategies:
 3. **Customer Trust and Satisfaction:** Early detection and prevention of fraud can enhance customer confidence and reduce financial losses.
 
 ## Repository Structure
-- `creditcard.csv`: The dataset used for analysis.
+- `creditcard_githubreference.csv`: The dataset used for analysis (first 10000 rows).
 - `Credit Card Fraud - Fraud Detection & Correlation.py`: Python script detailing the exploratory analysis and key findings.
 - `Credit Card Fraud - Model Building for Fraud Detection.py`: Python script focusing on building and evaluating machine learning models.
 
