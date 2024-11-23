@@ -30,6 +30,10 @@ This project was conducted in two main phases: **Exploratory Data Analysis (EDA)
   - Checked for missing or inconsistent data (none were found in this dataset).
 - **Visualizations:**
   - Created histograms and boxplots to identify patterns in transaction times and amounts.
+
+![Histogram](https://github.com/user-attachments/assets/e1fe50e1-cdb0-4faa-8fc3-a6169ac7852a)
+![Boxplot](https://github.com/user-attachments/assets/1c71b89f-c0d4-4d2d-8a73-a98cae4a47b8)
+
   - Used scatter plots to explore relationships between features and fraud occurrences.
 - **Correlation Analysis:**
   - Investigated relationships between PCA features (`V1` to `V28`) and the likelihood of fraud.
