@@ -85,6 +85,7 @@ The insights derived from this project can inform the following strategies:
 - `creditcard_githubreference.csv`: The dataset used for analysis (first 10000 rows).
 - `Credit Card Fraud - Fraud Detection & Correlation.py`: Python script detailing the exploratory analysis and key findings.
 - `Credit Card Fraud - Model Building for Fraud Detection.py`: Python script focusing on building and evaluating machine learning models.
+- `Credit Card Fraud Report`: Power BI visualization of the entire data project, that gives at a glance view of the relation between fraud rates, fraud detection and the time the fraud took place.
 
 ## Tools and Technologies
 - **Python:** For data analysis and model building.
